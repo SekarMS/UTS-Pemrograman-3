@@ -1,0 +1,15 @@
+//start
+//hrd / produksi / marketing
+//pengajuan cuti
+//validasi ke hrd
+//jika (punya cuti) {
+    maka cuti
+} jika (tidak ada cuti) {
+    tidak bisa cuti
+} jika cuti (approve ke atasan)
+
+
+
+skema database
+nama database : uts3
+nama tabel : t_cuti (nik varchar(15), nama varchar(25), jabatan varchar(20), hakCuti int(2))
